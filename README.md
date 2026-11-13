@@ -1,4 +1,4 @@
-# Aaron Wamala | Creative Technologist
+# Aaron Wamala 
 
 **Multimedia & Animation graduate · Software projects · AI & data exploration**
 
