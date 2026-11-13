@@ -1,18 +1,26 @@
-# Public release checklist
+# Public release review — 13 November 2026
 
-## Current review status
+## Review performed
 
-The README and selected conventional root files were inspected. A full repository tree, commit history, and all historical blobs have **not** been audited. No claim of a complete secrets scan is made.
+- [x] Enumerated the current default-branch tree (four files: README.md, projects, .gitignore, this checklist).
+- [x] Reviewed repository commit ancestry (five commits at review time).
+- [x] Enumerated the trees for historical commits; the original history contained README.md and the projects file only.
+- [x] Reviewed the text of the historical projects file and current README.
+- [x] Replaced the outdated projects listing with verified repository links.
+- [x] Added a .gitignore for common credentials, dependencies and build artifacts.
+- [x] Checked the reviewed text for obvious credential material; none observed.
 
-## Before changing visibility
+## Limitations and final checks
 
-- [ ] Review every file in the repository, including hidden files and large assets.
-- [ ] Scan the entire Git history for API keys, passwords, tokens, private addresses, and confidential information.
-- [ ] Remove any exposed secrets from history and rotate them at the provider.
-- [ ] Confirm that linked projects and portfolio statements are accurate.
-- [ ] Add verified screenshots and demos if available.
-- [ ] Confirm the repository contains only material you have permission to publish.
-- [ ] Decide whether to add a license.
-- [ ] Change visibility only after these checks pass.
+- [ ] Confirm that the email and personal details in the public README are intended for public display.
+- [ ] Review the repository's GitHub settings and any repository-associated metadata, issues, releases, or other content before publication.
+- [ ] Optionally run a dedicated secret scanner against a full local clone, including all refs, for defense in depth.
+- [ ] Confirm rights to publish any materials added later.
+- [ ] Decide on a license (none is currently provided).
+- [ ] Change visibility from Private to Public in GitHub Settings → General → Danger Zone → Change repository visibility.
 
-**Note:** A .gitignore prevents accidental future tracking; it does not remove previously committed secrets or files.
+## Findings
+
+The tracked content is a small documentation-only portfolio index. No obvious credentials or sensitive configuration files were identified in the inspected history. This is a scoped review, not a guarantee that all possible sensitive information is absent.
+
+**Important:** Making a repository public also makes its accessible Git history public. A .gitignore does not erase past commits.
