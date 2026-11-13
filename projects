@@ -1,33 +1,14 @@
-# Hey, I'm Aaron Wamala 👋
+# Project directory
 
-Creative technologist from Uganda building digital products, visual stories, and intelligent systems.
+This page highlights selected work and learning projects. For the latest status, visit each repository.
 
----
+| Repository | Area | Notes |
+| --- | --- | --- |
+| [F1 Predictor AI](https://github.com/WAMALAARON/f1-predictor-ai) | Machine learning | Streamlit dashboard in progress |
+| [Schedule Assistant](https://github.com/WAMALAARON/schedule-assistant) | Productivity software | Implementation details are being documented |
+| [SafariSync Engine](https://github.com/WAMALAARON/safarisync-engine) | Software engineering | Documentation in progress |
+| [Forage MIDAS](https://github.com/WAMALAARON/forage-midas) | Engineering training | Educational virtual experience, not employment |
 
-## 🚀 What I Do
-- Multimedia & Animation
-- UI/UX Design (Figma)
-- Web Design & Development
-- Data & Analytics exploration
-- Early-stage AI & system building
+For an overview of skills, education, and contact details, see the [main README](README.md).
 
----
-
-## 🧠 Skills
-- UI / UX Design
-- Programming Languages: Python TypeScript, Java.
-- Frameworks/Libraries: React, Node.js, Django, TensorFlow.
-- Tools & Technologies: AWS, Git,Github, PostgreSQL, Figma,
----
-
-## 📌 Projects
-- Smart Ride ERP (transport system concept)
-- Insta Reply MVP (Fast and reliable communication system)
-- Safari Tourism MVP (in progress)
-- Community Ordering System (idea stage)
-
----
-
-## 📫 Contact
-- Email: ywamalaaronk@gmail.com
-- GitHub: https://github.com/WAMALAARON
+> Other experimental or private projects are intentionally not linked here.
