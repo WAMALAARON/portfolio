@@ -13,6 +13,20 @@ Based in Uganda, I work at the intersection of creative media and technology. My
 | [SafariSync Engine](https://github.com/WAMALAARON/safarisync-engine) | Software development | Documentation in progress |
 | [Forage MIDAS](https://github.com/WAMALAARON/forage-midas) | Software engineering training exercise | Educational project, not employment |
 
+
+## Proposed builds — portfolio roadmap
+
+These are **project concepts, not completed software**. Each brief outlines a realistic MVP and the evidence needed before it can be showcased as working code.
+
+| Concept | Area | Project brief |
+| --- | --- | --- |
+| **LedgerGuard AI** | Financial reconciliation and anomaly detection | [Read brief](concepts/ledgerguard-ai.md) |
+| **OpsPilot AI** | Human-supervised AI workflow automation | [Read brief](concepts/opspilot-ai.md) |
+| **MarketPulse Analytics** | Business dashboards and forecasting | [Read brief](concepts/marketpulse-analytics.md) |
+| **AssetFlow** | Maintenance coordination and asset management | [Read brief](concepts/assetflow.md) |
+
+I plan to implement and validate these projects incrementally, publishing code, tests and demos as each milestone is completed.
+
 ## Skills and interests
 
 **Creative:** graphic design, video editing, animation, visual storytelling and digital content.
