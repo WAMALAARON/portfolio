@@ -12,3 +12,16 @@ This page highlights selected work and learning projects. For the latest status,
 For an overview of skills, education, and contact details, see the [main README](README.md).
 
 > Other experimental or private projects are intentionally not linked here.
+
+## Proposed builds — portfolio roadmap
+
+These are **project concepts, not completed software**. Each brief outlines a realistic MVP and the evidence needed before it can be showcased as working code.
+
+| Concept | Area | Project brief |
+| --- | --- | --- |
+| **LedgerGuard AI** | Financial reconciliation and anomaly detection | [Read brief](concepts/ledgerguard-ai.md) |
+| **OpsPilot AI** | Human-supervised AI workflow automation | [Read brief](concepts/opspilot-ai.md) |
+| **MarketPulse Analytics** | Business dashboards and forecasting | [Read brief](concepts/marketpulse-analytics.md) |
+| **AssetFlow** | Maintenance coordination and asset management | [Read brief](concepts/assetflow.md) |
+
+I plan to implement and validate these projects incrementally, publishing code, tests and demos as each milestone is completed.
